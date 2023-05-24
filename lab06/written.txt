@@ -1,0 +1,21 @@
+A1. Jeremy Bentham: 
+Ethical principle: utilitarianism -> ignore the actions, focus entirely on the consequences, maximize the total utility of participants.
+A driveless car would make the decision that causes the least fatalities as possible.
+
+A2. Immanuel Kant: 
+Ethical principle: focus on the actions regardless of the consequences.
+A driveless car would not adjust any actions despite it may cause more fatalities since human is instinctically and should not actively doing anything evils.
+
+A3. Driving based on the laws is the utmost important then it would priortize to protect the driver first and after that, it will regard to minimize the total utility if any unwanted situation happens. 
+
+A4. Driving based on the laws > Protecting passenger > Saving more lives > Avoid interventions
+
+T6. 
+Smallest: Pedestrian: 0
+		  Passenger: 1
+Largest: Pedestrian: 7
+		 Passenger: 5
+
+T7. No
+
+T8. Never
