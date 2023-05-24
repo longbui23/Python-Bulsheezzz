@@ -1,0 +1,61 @@
+#Maggie and Long
+
+DEFINE
+a. Identify the distinct components necessary for the program.
+i. Give names to the variables and functions you will use!
+	+Variables: board, boxes, divider, winner, move
+	+Functions: prBoard(movelist), checkwin(checklist), boardoverload(board), usermove(move), compmove(move), getMouse, 
+
+b. Describe or explain components that are especially complex and/or critical.
+We need to use GUI code for user's move and translate coordinates into strings or lists by determining player's move with a mouse click to not only record the moves into the GUI but also a tool to check who has won the game.
+
+c. Use “black boxes” as placeholders for the components you do not yet understand.
++ record users move into a list
++ represent computer move into the GUI interface
++ check coordinates and record it to evaluate who won the game
++ what if the user click in invalid position (clicking outside the game box or the box that already have a 'x' or 'o')?
+
+DESIGN
+a. Written description:
+	+The program will draw 9 boxes into GUI and allow the user to click on
+	+ if user click on the box: 
+		x show up at that place
+	elif user click in invalid space:
+		inform user that is not a valid move
+	computer's turn
+	check win/ draw/ lost
+
+b. pseudocode (based and developed from lab09.py)
+#in main.py
+import random, funx, graphics packages
+print out intro
+
+#in funx.py
++define new functions: +draw x and draw y
+                       +draw boards in GUI
+					   +allow user's to draw x on the board
+                       +computer GUI move
+        			   +check win
+					   + draw
+
+#in main.py
+initiates variables
+drawBoard in GUI
+print intro
+
+while loop to allow players to replay after a turn
+	playerturn
+	display player's turn and draw box
+	remove picked position from the list
+	conditional statement to check whether player have won the game or any box remains
+		if player has won -> congrats
+		if no box remains -> it is a tie
+		if no one has won -> continue the game
+		computer's move 
+			generate a random move and removed it from the list
+			display move and update the board
+			check whether the computer has won the game
+
+End the program
+	
+					   
