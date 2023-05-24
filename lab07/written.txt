@@ -1,0 +1,43 @@
+T1. The first row shows the name tag for different datas that appear in the remaining line.
+
+T2. 1765 to 1999
+
+T3. 0.041368074
+
+T4. 10.242021
+
+T5. 0.42150415
+
+T6. The unit of Carbon is pg and the unit of Nitrous Oxide is pg are different so they cannot be plotted with the same graph.
+
+T7. The most optimistic is 2.6 and the most pessimistic is 8.5.
+
+T8. Range: 1 to 7
+	Min: 1
+	Max: 7
+	4 is the most suitable number because it is both the median and medium number.
+
+T9. Column for year (counting from 0): 2
+	Column for t_s (counting from 0): 30
+
+T10. Based on what we research:
++RCP 2.6: incease of below 2 degree Celcius 
++RCP 4.5: increase of 2 to 3 degree Celcius
++RCP 6.0: increase of 3 to 4 degree Celcius
++RCP 8.5: increase of 5 degree Celcius
+
+The result of our simulation does not yield the similiar number as what we have read in the internet but the proportions between RCPs are the same in both results.
+
+T11. It goes up and have exactly the same result we find in the internet (goint up around 4 times amost as same as the CSP)
+
+T12. The new result will go to the original csv file and change the data in it when we change the CSP. The old result will be replaced.
+
+T13. In the year 2100 and with CSP = 7, we have the projected change in temperafure for each RCP:
++RCP 2.6: around 0.4 degree Celcius
++RCP 4.5: around 0.6 degree Celcius
++RCP 6.0: around 0.7 degree Celcius
++RCP 8.5: around 1.0 degree Celcius
+
+T14. The temperature change results in the CSV files exactly matches what displayed in the graph.
+
+Reflection: Through this problem sets, we understand not only how to use CSV files (converting from word, excel, ggsheets, etc) to visualize it into a beautiful graphs. Not only that, we are also wonder how can create different types of graphs in python to visualize datas for isntance, we can't display frequency and relative frequency datas of discrete numerical variables (or variables that does not have continious values) inside the line graphs so how about displaying it in bar plot or bar graph in python ?
