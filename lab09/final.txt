@@ -1,0 +1,34 @@
+1)Develop phase
+Notes on
+i. improvements
++inform texts appear on screen
+
+ii. revisions
+
+
+iii. changes of strategy (These are most important!)
++using the checkfullboard() function and checkWin() again without creating a new one to check the boxes
+
+
+
+2) Reflection on
+i. how successful the program is
++the program is able to convert the coordinate into string and change it into a list to check whether the game is a tie, win, or lost for player.
+
+ii. what the major challenges were
++convert coordinate into string and store its value
++print text into screen (including draw and undraw it)
++endgame
+
+iii. who was helpful to you as you worked on the challenge
+
+
+iv. how your team cooperated (for team projects)
++
+
+v. improvements to your solution you would make if you had more time
++find a package on python to add music on to make the game more intense
+
+vi. recommendations for future use of this particular challenge
+
+
