@@ -1,0 +1,12 @@
+T1. The file includes an e-book named The Project Gutenberg eBook, Gadsby.
+
+T2. The novel actually begins: line 184
+	The novel actually ends: line 5861
+
+T3. It is unusual because in the entire novel it does not use the letter e, even though it has been found as the most frequently used letter in the alphabet.
+
+T4. Yes, the words make sense and seem to be  like normal language in English.
+
+T5. I think we should test it since it it so unimaginable to write an entire novel without using letter e.
+
+T6. We can observe that there are 4 e's in the text so the author's claim is False.
