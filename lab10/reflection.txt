@@ -1,0 +1,19 @@
+# Write your reflection here.
+. From running your program with validation.txt, what are the following values?
+	• number of lines examined
+	101
+
+	• computer ratings’ total deviation from human ratings
+	104.55147405711347
+
+	• computer rating’s average deviation from human rating
+	1.0560754955263987
+
+For a relatively simple algorithm, the results of your B3 program might be surprisingly good. Based on
+modern experiences, however, we might expect that the computer could do even better.
+	• What are some factors -- besides the one identified in the optional challenges above -- that you
+	think limited the accuracy of the results?
+	+ connections between words are not examined or for the same comment or point of view ppl can have different points depending on their personalities, perspectives and expectations about the film which we could not examined these factors through machine
+
+	• What are some ways you think the algorithm could do better? 
+	+ numericalize words or texts into points or examine the frequency of words appear
