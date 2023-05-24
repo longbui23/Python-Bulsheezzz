@@ -1,0 +1,15 @@
+# Christine and Long's Reflection
+
+R1: The first line in the shell is 0 : TEZ KYRF C RRKJ  OLSZPO GEDKMVNI OYAE
+
+R2: in line 102 we begin to see the sonnet, 102: SHALL I COOPARE THEA TO A SUMMERS DAY
+
+R3: They change every time:
+49: SHALL I CEMPNRE THEE TM ADLUMMERR DAY
+44: SHALL I COT BRE THZE TO B SCMMERS DAY
+79: SHALL I COMPARC THEE TOLA SUMMERS DAY
+
+R4: No because they are randomly choosing which letters to choose every time and because of this randomness it will change every time.
+
+R5: It is able to solve the problem but it will take much longer times to reach the sonnet line. If the sonnet line is shorter, the program will take a much shorter time to reach it. The algorithm is very sensitive to changes in length of the sonnet.
+
